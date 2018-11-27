@@ -1,0 +1,218 @@
+@import url('http://fonts.googleapis.com/css?family=ubuntu');
+@import url('http://fonts.googleapis.com/css?family=Lobster Two');
+@import url('http://fonts.googleapis.com/css?family=ubuntu');
+.nav.navbar-nav{
+	display: inline-block;
+	float: none;
+	vertical-align: top;
+
+
+}
+
+.navbar .navbar-collapse {
+	text-align: center;
+	
+
+}
+
+.navbar-default{
+	font-family: ubuntu;
+	background-color: transparent;
+
+	border-width: 0;
+
+}
+#bs-example-navbar-collapse-1 li a{
+	color: #313E5A ;
+	font-family: ubuntu;
+	font-size: 20px;
+}
+#bs-example-navbar-collapse-1 li a:hover{
+	color: #27ae60;
+}
+
+.actv {
+	color: #27ae60 !important;
+}
+.navbar-brand img {
+	margin-top: -10px;
+
+}
+.social li:first-child a  {
+	margin-right: -12px;
+}
+
+@media (max-width: 992px) {
+	.social {
+		display: none !important;
+	}
+}
+.error-label{
+	color:red;
+	font-size: 12px;
+}
+body{
+	background-image: url('pic/backg.png');
+	width: 100%;
+	background-repeat:no-repeat;
+	background-size: cover;
+	margin: 0;
+	font-size: 16px;
+}
+.navbar-default {
+	margin-top: 10px;
+	background-color: transparent;
+	border-width: 0px;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+	font-family: ubuntu;
+}
+#navbar1 li a{
+	color: #313E5A !important;
+	font-family: ubuntu;
+	font-size: 20px;
+}
+#navbar1 li a:hover{
+	color: #27ae60 !important;
+}
+.social .fa-facebook-square:hover {
+	color: #27ae60 !important;
+}
+
+
+
+.caption ul {
+	margin-top:25px;
+	padding:0px;
+	list-style:none;
+	font-family: ubuntu;
+}
+.caption ul li
+{
+	margin-left: 10px;
+	padding:0px;
+	font-size:16px;
+	color:#000;
+}
+.caption ul li b{
+	font-size: 17px;
+	text-decoration:none;
+	color:#146EAC;
+}
+.caption ul li a{
+	text-decoration:none;
+	color:#146EAC;
+}
+.caption ul li a:hover
+{color:#1e2a64;
+	font-size:20px;
+}
+.container-fluid {
+    padding-right: 80px;
+    padding-left: 80px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.container-fluid h1
+{
+	font-weight: normal;
+	font-family: ubuntu;
+	font-size: 45px;
+	margin-top: 20px;
+	color: #27ae60;
+	text-align: center;
+}
+.thumbnail{
+	min-height: 220px !important;
+	border: none;
+}
+@media only screen and (max-width: 991px) {
+	#navbar1 li a{
+		font-size: 18px;
+	}
+	.social{
+		display: none;
+	}
+}
+@media only screen and (max-width: 350px) {
+	body{
+		background-image: none;
+	}
+	#navbar1 .nav.navbar-nav li a{
+		font-size: 16px;
+		text-align: center;
+		padding-top: 5px;
+		padding-bottom: 5px;
+		line-height: 18px;
+	}
+}
+@media only screen and(max-width: 768px) {
+	.thumbnail{
+		min-height: 180px !important;
+
+	}
+}
+
+.bodypic{
+	margin-top:-20px;
+}
+.title h1{
+	font-family:'ubuntu';
+}
+
+.content{
+	margin-top: 200px;
+	margin-left: 60px;
+	text-decoration: none;
+	position: relative;
+}
+.content h1{
+	text-decoration: none;
+	font-size: 30px;
+	color: #52c8f4;
+	font-family: Lobster Two;
+	clear: both;
+}
+.content h2{
+	font-size: 48px;
+	color: white;
+	font-family: ubuntu;
+	color: #1d2b63;
+}
+.club{
+	color: #52c8f4 !important;
+}
+.content h4{
+	text-decoration: none;
+	font-size: 22px;
+	color: #31445A;
+	font-family: ubuntu;
+}
+.footer {
+  height: 80px;
+  background-color: #2ecc71;
+font-family: ubuntu;
+  margin-top:50px;
+  padding-top:20px;
+  padding-bottom:20px;
+  text-align: center;
+
+}
+.scroll-top {
+   position:fixed;
+   bottom:0;
+   right:6%;
+   z-index:100;
+   background: #f2f3f2;
+   font-size:24px;
+   border-top-left-radius:3px;
+   border-top-right-radius:3px;
+}
+.scroll-top a:link,.scroll-top a:visited {
+  color:#222;
+} 
+.footer p {
+  font font-family: Ubuntu;
+  font font-size: 50px;
+  color: #2c3e50;
+}

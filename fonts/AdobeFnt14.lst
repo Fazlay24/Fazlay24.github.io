@@ -1,0 +1,155 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ExpletusSans-BoldItalic
+FamilyName:Expletus Sans
+StyleName:Bold Italic
+FullName:Expletus Sans Bold Italic
+MenuName:Expletus Sans
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:D:\ZERO\BUBT\It Club\pad design\pad_selected\Font\ExpletusSans-BoldItalic_2.ttf
+DataFormat:sfntData
+FileLength:49428
+FileModTime:1411356704
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ExpletusSans-Bold
+FamilyName:Expletus Sans
+StyleName:Bold
+FullName:Expletus Sans Bold
+MenuName:Expletus Sans
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\ZERO\BUBT\It Club\pad design\pad_selected\Font\ExpletusSans-Bold_2.ttf
+DataFormat:sfntData
+FileLength:62984
+FileModTime:1411356704
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ExpletusSans-Italic
+FamilyName:Expletus Sans
+StyleName:Italic
+FullName:Expletus Sans Italic
+MenuName:Expletus Sans
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\ZERO\BUBT\It Club\pad design\pad_selected\Font\ExpletusSans-Italic_2.ttf
+DataFormat:sfntData
+FileLength:39444
+FileModTime:1411356704
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ExpletusSans-MediumItalic
+FamilyName:Expletus Sans
+StyleName:Medium Italic
+FullName:Expletus Sans Medium Italic
+MenuName:Expletus Sans
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\ZERO\BUBT\It Club\pad design\pad_selected\Font\ExpletusSans-MediumItalic_2.ttf
+DataFormat:sfntData
+FileLength:74072
+FileModTime:1411356704
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ExpletusSans-Medium
+FamilyName:Expletus Sans
+StyleName:Medium
+FullName:Expletus Sans Medium
+MenuName:Expletus Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\ZERO\BUBT\It Club\pad design\pad_selected\Font\ExpletusSans-Medium_2.ttf
+DataFormat:sfntData
+FileLength:69076
+FileModTime:1411356704
+WeightClass:500
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ExpletusSans
+FamilyName:Expletus Sans
+StyleName:Regular
+FullName:Expletus Sans
+MenuName:Expletus Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\ZERO\BUBT\It Club\pad design\pad_selected\Font\ExpletusSans-Regular_2.ttf
+DataFormat:sfntData
+FileLength:57428
+FileModTime:1411356704
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ExpletusSans-SemiBoldItalic
+FamilyName:Expletus Sans
+StyleName:SemiBold Italic
+FullName:Expletus Sans SemiBold Italic
+MenuName:Expletus Sans
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:D:\ZERO\BUBT\It Club\pad design\pad_selected\Font\ExpletusSans-SemiBoldItalic_2.ttf
+DataFormat:sfntData
+FileLength:49088
+FileModTime:1411356704
+WeightClass:600
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ExpletusSans-SemiBold
+FamilyName:Expletus Sans
+StyleName:SemiBold
+FullName:Expletus Sans SemiBold
+MenuName:Expletus Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\ZERO\BUBT\It Club\pad design\pad_selected\Font\ExpletusSans-SemiBold_2.ttf
+DataFormat:sfntData
+FileLength:67948
+FileModTime:1411356704
+WeightClass:600
+WidthClass:5
+AngleClass:0
+%EndFont
+
